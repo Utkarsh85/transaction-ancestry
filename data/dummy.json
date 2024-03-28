@@ -1,0 +1,1 @@
+[{"txid":"A","vin":[{"txid":"B"},{"txid":"C"}]},{"txid":"B","vin":[{"txid":"D"},{"txid":"C"}]},{"txid":"C","vin":[{"txid":"D"},{"txid":"Y"}]},{"txid":"D","vin":[{"txid":"E"},{"txid":"Y"}]}]
